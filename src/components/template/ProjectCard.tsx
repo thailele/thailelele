@@ -16,7 +16,7 @@ export default function ProjectCard({ project }: Props) {
   const { id, title, image, sourceCodeLink, previewLink, technologies, completedAt } = project;
 
   let imgUrl = (image && image !== '')
-    ? "/portfolio/assets/project_images/" + image
+    ? "/thailelele/assets/project_images/" + image
     : comingSoonUrl;
 
   const monthYear = completedAt ? new Date(completedAt).toLocaleDateString("en-US", {
