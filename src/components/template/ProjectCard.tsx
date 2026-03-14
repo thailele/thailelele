@@ -68,7 +68,7 @@ export default function ProjectCard({ project }: Props) {
 
           {/* Technologies */}
           <div className="flex flex-wrap gap-2 mb-4">
-            {technologies.slice(0, 5).map((tech, index) => (
+            {technologies?.slice(0, 5).map((tech, index) => (
               <span
                 key={index}
                 className="text-xs px-2 py-1 rounded bg-green-500/10 border border-green-500/30 text-green-300"
@@ -77,7 +77,7 @@ export default function ProjectCard({ project }: Props) {
               </span>
             ))}
 
-            {technologies.length > 5 && (
+            {technologies?.length > 5 && (
               <span className="text-xs px-2 py-1 rounded bg-green-500/10 border border-green-500/30 text-green-300">
                 +{technologies.length - 5}
               </span>
