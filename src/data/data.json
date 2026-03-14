@@ -25,27 +25,31 @@
       "url": "https://github.com/thailele/"
     }
   ],
-  "certifications": [
-    {
-      "name": "IELTS 7.0",
-      "year": "2023",
-      "description": "Mostly self-learned"
-    }
-  "technologies": [
-    {
-      "title": "Media",
-      "techs": [
-        "Illustrator",
-        "Photoshop",
-        "Capcut",
-        "Filmora"
-      ]
-    },
-  "projects": [
-    {
-      "id": 1,
-      "title": "REUNIFICATION DAY PHOTOS ALBUM",
-      "image": "/popup.png",
-      "description": "Some of the photos were also used by FTU Times and Yo News. If you have been once familiar with the 30/4 style background of Yo News notification posts, yep that's my photo in the background."
-      ]
-    }
+ "certifications": [
+  {
+    "name": "IELTS 7.0",
+    "year": "2023",
+    "description": "Mostly self-learned"
+  }
+],
+
+"technologies": [
+  {
+    "title": "Media",
+    "techs": [
+      "Illustrator",
+      "Photoshop",
+      "Capcut",
+      "Filmora"
+    ]
+  }
+],
+
+"projects": [
+  {
+    "id": 1,
+    "title": "REUNIFICATION DAY PHOTOS ALBUM",
+    "image": "/popup.png",
+    "description": "Some of the photos were also used by FTU Times and Yo News. If you have been once familiar with the 30/4 style background of Yo News notification posts, yep that's my photo in the background."
+  }
+]
